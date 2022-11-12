@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T20:58:34.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lU4uGa-OkxyKgtqz4WTJ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T21:05:45.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vlDBxeZGbYHMY33DHocN" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,24 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="10" y="1820" as="sourcePoint" />
             <mxPoint x="820" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jz67-1D78QoDurhvt4xl-60" value="&lt;font color=&quot;#ffff66&quot;&gt;* divide the n by 2 through % (modulus operator) and store the remainder in array.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1890" width="750" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jz67-1D78QoDurhvt4xl-61" value="* divide the n by 2 through&amp;nbsp;/ (division operator)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1930" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jz67-1D78QoDurhvt4xl-62" value="* repeat the step 2 until n is greater than 0 ." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="49" y="1970" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jz67-1D78QoDurhvt4xl-63" value="18 -" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="1830" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jz67-1D78QoDurhvt4xl-64" value="" style="shape=link;html=1;rounded=0;strokeColor=#FF6392;fontSize=20;fontColor=#FFFF66;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="10" y="2040" as="sourcePoint" />
+            <mxPoint x="820" y="2040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
